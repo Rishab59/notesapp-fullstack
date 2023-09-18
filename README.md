@@ -5,7 +5,7 @@
 
 * Frontend : ReactJS
 * Backend : Django
-* Connectivity : REST Framework
+* Connectivity(API) : REST Framework
 
 <br>
 <hr>
